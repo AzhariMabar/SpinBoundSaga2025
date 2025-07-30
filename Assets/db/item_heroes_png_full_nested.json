@@ -1,0 +1,935 @@
+[
+  {
+    "id": "bodypart.common.body.animal.fox",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/animal/fox/1.Badan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/animal/fox/10.Kaki Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/animal/fox/11.Ekor.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/animal/fox/2.Bahu Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/animal/fox/3.Bahu Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/animal/fox/4.Lengan Kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/animal/fox/5.Tangan Kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/animal/fox/6.Pinggul.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/animal/fox/7.Paha Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/animal/fox/8.Paha Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/animal/fox/9.Kaki Kiri.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "body",
+    "name": "animal/fox",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.body.human.basic",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/human/basic/1.Badan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/human/basic/10.Kaki Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/human/basic/2.Bahu Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/human/basic/3.Bahu Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/human/basic/4.Lengan Kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/human/basic/5.Tangan Kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/human/basic/6.Pinggul.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/human/basic/7.Paha Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/human/basic/8.Paha Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/body/human/basic/9.Kaki Kiri.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "body",
+    "name": "human/basic",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.ears.animal.fox",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/ears/animal/fox/2.Kuping Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/ears/animal/fox/3.Kuping Kanan.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "ears",
+    "name": "animal/fox",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.ears.elf.basic",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/ears/elf/basic/1.human.ears.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "ears",
+    "name": "elf/basic",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.ears.human.basic",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/ears/human/basic/1.human.ears.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "ears",
+    "name": "human/basic",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.face.animal.fox",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/animal/fox/1.Normal.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/animal/fox/2.Sakit.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/animal/fox/3.Mati.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/animal/fox/4.Nangis.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "face",
+    "name": "animal/fox",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.face.human.female",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/human/female/1.Normal (Brown).png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/human/female/2.Sakit.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/human/female/3.Mati.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/human/female/4.Nangis.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/human/female/5.Mata (Biru).png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "face",
+    "name": "human/female",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.face.human.male",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/human/male/1.Normal (Brown).png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/human/male/2.Sakit.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/human/male/3.Mati.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/human/male/4.Nangis.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/face/human/male/5.Mata Biru.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "face",
+    "name": "human/male",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.akira.basic",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/akira/basic/1.poni.hitam.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/akira/basic/2.poni.hitam.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "akira/basic",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.akira.gold",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/akira/gold/1.Rambut.Pirang.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/akira/gold/2.Poni.Pirang.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "akira/gold",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.akira.orange",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/akira/orange/1.Rambut.Cokelat.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/akira/orange/2.Poni.Cokelat.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "akira/orange",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.kirana.basic",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/kirana/basic/7.Rambut.Hitam.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/kirana/basic/8.Poni.Hitam.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "kirana/basic",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.kirana.gold",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/kirana/gold/3.Rambut.Pirang.b .png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/kirana/gold/4.Poni.Pirang.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "kirana/gold",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.kirana.orange",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/kirana/orange/11.Rambut.Cokelat.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/kirana/orange/12.Poni.Cokelat.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "kirana/orange",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.kora.basic",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/kora/basic/3.Rambut.Hitam.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/kora/basic/4.Poni.Hitam.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "kora/basic",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.kora.gold",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/kora/gold/1.Rambut.Pirang.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/kora/gold/2.Poni.Pirang.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "kora/gold",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.kora.orange",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/kora/orange/7.Rambut.Cokelat.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/kora/orange/8.Poni.Cokelat.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "kora/orange",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.sanumia.basic",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/sanumia/basic/5.Rambut.Hitam.b .png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/sanumia/basic/6.Poni.Hitam.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "sanumia/basic",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.sanumia.gold",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/sanumia/gold/1.Rambut.Pirang.b .png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/sanumia/gold/2.Poni.Pirang.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "sanumia/gold",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.sanumia.orange",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/sanumia/orange/1.Rambut.Cokelat.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/sanumia/orange/2.Poni.Cokelat.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "sanumia/orange",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.sylvia.basic",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/sylvia/basic/1.RambutElf.Hitam.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/sylvia/basic/2.PoniElf.Hitam.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "sylvia/basic",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.sylvia.gold",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/sylvia/gold/3.RambutElf.Pirang.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/sylvia/gold/4.PoniElf Pirang.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "sylvia/gold",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.sylvia.orange",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/sylvia/orange/5.RambutElf.Cokelat.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/sylvia/orange/6.PoniElf. Cokelat.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "sylvia/orange",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.zet.basic",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/zet/basic/7.RambutElf.Hitam.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/zet/basic/8.PoniElf.Hitam.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "zet/basic",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.hair.zet.gold",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/zet/gold/1.RambutElf.Pirang.b.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/hair/zet/gold/2.PoniElf.Pirang.f.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "hair",
+    "name": "zet/gold",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.head.animal.fox",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/head/animal/fox/1.basic.face.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "head",
+    "name": "animal/fox",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "bodypart.common.head.human.unisex",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/bodypart/common/head/human/unisex/1.basic.face.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "head",
+    "name": "human/unisex",
+    "collection": "bodypart",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment.common.armor.basic_stats_18_0_13",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/basic_stats_18_0_13/1.Baju.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/basic_stats_18_0_13/10.Kaki Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/basic_stats_18_0_13/2.Bahu Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/basic_stats_18_0_13/3.Bahu Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/basic_stats_18_0_13/4.Lengan Kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/basic_stats_18_0_13/5.Tangan Kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/basic_stats_18_0_13/6.Pinggul.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/basic_stats_18_0_13/7.Paha Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/basic_stats_18_0_13/8.Paha Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/basic_stats_18_0_13/9.Kaki Bawah kiri.png"
+    ],
+    "stats": [
+      18,
+      0,
+      13
+    ],
+    "type": "armor",
+    "name": "basic_stats_18_0_13",
+    "collection": "equipment",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment.common.armor.singlet_stats_10_0_13",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/singlet_stats_10_0_13/1.Baju.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/singlet_stats_10_0_13/6.Pinggul.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/singlet_stats_10_0_13/7.Paha Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/armor/singlet_stats_10_0_13/8.Paha Kanan.png"
+    ],
+    "stats": [
+      10,
+      0,
+      13
+    ],
+    "type": "armor",
+    "name": "singlet_stats_10_0_13",
+    "collection": "equipment",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment.common.economy.majo",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/economy/majo/Koin-Majamojo-(Banyak)_0005_Koin-Majamojo-(Satuan).png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "economy",
+    "name": "majo",
+    "collection": "equipment",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment.common.economy.ruby",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/economy/ruby/Koin-Majamojo-(Banyak)_0004_Ruby.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "economy",
+    "name": "ruby",
+    "collection": "equipment",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment.common.economy.tiket",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/economy/tiket/Koin-Majamojo-(Banyak)_0003_Tiket.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "economy",
+    "name": "tiket",
+    "collection": "equipment",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment.common.shield.basic_stats_0_0_13",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/shield/basic_stats_0_0_13/Shield 1.png"
+    ],
+    "stats": [
+      0,
+      0,
+      13
+    ],
+    "type": "shield",
+    "name": "basic_stats_0_0_13",
+    "collection": "equipment",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment.common.supplies.spin",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/supplies/spin/Ikon Spin 2.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "supplies",
+    "name": "spin",
+    "collection": "equipment",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment.common.weapon.1handed.basic_stats_0_15_0",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/weapon/1handed/basic_stats_0_15_0/Pedang.png"
+    ],
+    "stats": [
+      0,
+      15,
+      0
+    ],
+    "type": "weapon",
+    "name": "1handed/basic_stats_0_15_0",
+    "collection": "equipment",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment.common.weapon.Staff",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/weapon/Staff/SwampHealer1Staff.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "weapon",
+    "name": "Staff",
+    "collection": "equipment",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment.common.weapon.bow.Christmas 1",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/weapon/bow/Christmas 1/FestiveBow.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "weapon",
+    "name": "bow/Christmas 1",
+    "collection": "equipment",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment.common.weapon.bow.Christmas",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/common/weapon/bow/Christmas/ChristmasBow.png"
+    ],
+    "stats": [
+      0,
+      0,
+      0
+    ],
+    "type": "weapon",
+    "name": "bow/Christmas",
+    "collection": "equipment",
+    "rarity": "common"
+  },
+  {
+    "id": "equipment.epic.armor.Star Knight_stats_42_0_15",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/1.Baju.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/10.Kaki Kanan L.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/10.Kaki Kanan P.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/12.Sayap Bawah.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/13.Rok.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/2.Bahu Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/3.Bahu Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/4.Lengan Kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/5.Tangan Kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/6.Pinggul L.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/6.Pinggul P.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/7.Paha Kiri L.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/7.Paha Kiri P.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/8.Paha Kanan L.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/8.Paha Kanan P.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/9.Kaki Kiri L.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/armor/Star Knight_stats_42_0_15/9.Kaki Kiri P.png"
+    ],
+    "stats": [
+      42,
+      0,
+      15
+    ],
+    "type": "armor",
+    "name": "Star Knight_stats_42_0_15",
+    "collection": "equipment",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment.epic.helmet.Star Knight_stats_15_0_28",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/helmet/Star Knight_stats_15_0_28/Aksesoris.png"
+    ],
+    "stats": [
+      15,
+      0,
+      28
+    ],
+    "type": "helmet",
+    "name": "Star Knight_stats_15_0_28",
+    "collection": "equipment",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment.epic.shield.Star Knight_stats_18_5_45",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/shield/Star Knight_stats_18_5_45/Shield.png"
+    ],
+    "stats": [
+      18,
+      5,
+      45
+    ],
+    "type": "shield",
+    "name": "Star Knight_stats_18_5_45",
+    "collection": "equipment",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment.epic.weapon.1handed.Star Knight_stats_15_52_8",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/epic/weapon/1handed/Star Knight_stats_15_52_8/Pedang.png"
+    ],
+    "stats": [
+      15,
+      52,
+      8
+    ],
+    "type": "weapon",
+    "name": "1handed/Star Knight_stats_15_52_8",
+    "collection": "equipment",
+    "rarity": "epic"
+  },
+  {
+    "id": "equipment.legendary.armor.Solar Sentinel_stats_54_15_24",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/armor/Solar Sentinel_stats_54_15_24/1.Baju.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/armor/Solar Sentinel_stats_54_15_24/10.kaki Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/armor/Solar Sentinel_stats_54_15_24/11.Sayap Syal.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/armor/Solar Sentinel_stats_54_15_24/12.Sayap Bawah (Buat Belakang Baju).png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/armor/Solar Sentinel_stats_54_15_24/2.Armor Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/armor/Solar Sentinel_stats_54_15_24/3.Armor Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/armor/Solar Sentinel_stats_54_15_24/4.Lengan Bawah Kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/armor/Solar Sentinel_stats_54_15_24/5.Tangan Kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/armor/Solar Sentinel_stats_54_15_24/6.Pinggang.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/armor/Solar Sentinel_stats_54_15_24/7.Paha Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/armor/Solar Sentinel_stats_54_15_24/8.Paha Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/armor/Solar Sentinel_stats_54_15_24/9.kaki Kiri.png"
+    ],
+    "stats": [
+      54,
+      15,
+      24
+    ],
+    "type": "armor",
+    "name": "Solar Sentinel_stats_54_15_24",
+    "collection": "equipment",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment.legendary.helmet.Solar Sentinel_stats_23_18_35",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/helmet/Solar Sentinel_stats_23_18_35/Aksesoris Kepala.png"
+    ],
+    "stats": [
+      23,
+      18,
+      35
+    ],
+    "type": "helmet",
+    "name": "Solar Sentinel_stats_23_18_35",
+    "collection": "equipment",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment.legendary.shield.Solar Sentinel_stats_28_20_55",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/shield/Solar Sentinel_stats_28_20_55/Perisai.png"
+    ],
+    "stats": [
+      28,
+      20,
+      55
+    ],
+    "type": "shield",
+    "name": "Solar Sentinel_stats_28_20_55",
+    "collection": "equipment",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment.legendary.weapon.2handed.Solar Sentinel_stats_23_95_33",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/legendary/weapon/2handed/Solar Sentinel_stats_23_95_33/PEdang.png"
+    ],
+    "stats": [
+      23,
+      95,
+      33
+    ],
+    "type": "weapon",
+    "name": "2handed/Solar Sentinel_stats_23_95_33",
+    "collection": "equipment",
+    "rarity": "legendary"
+  },
+  {
+    "id": "equipment.rare.armor.Forest Guardian_stats_30_0_18",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Forest Guardian_stats_30_0_18/1.Baju.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Forest Guardian_stats_30_0_18/10.Kaki Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Forest Guardian_stats_30_0_18/11.Sayap Atas.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Forest Guardian_stats_30_0_18/2.Bahu Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Forest Guardian_stats_30_0_18/3.Bahu Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Forest Guardian_stats_30_0_18/4.Lengan Bawah Kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Forest Guardian_stats_30_0_18/5.Tangan Kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Forest Guardian_stats_30_0_18/6.Pinggul.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Forest Guardian_stats_30_0_18/7.Paha Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Forest Guardian_stats_30_0_18/8.Paha Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Forest Guardian_stats_30_0_18/9.Kaki Kiri.png"
+    ],
+    "stats": [
+      30,
+      0,
+      18
+    ],
+    "type": "armor",
+    "name": "Forest Guardian_stats_30_0_18",
+    "collection": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment.rare.armor.Oni_stats_28_0_20",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Oni_stats_28_0_20/1. Baju L.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Oni_stats_28_0_20/1. Baju P.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Oni_stats_28_0_20/10.Kaki Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Oni_stats_28_0_20/11.Sayap Atas.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Oni_stats_28_0_20/2.Bahu Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Oni_stats_28_0_20/3.Bahu Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Oni_stats_28_0_20/4.Lengan kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Oni_stats_28_0_20/5.Tangan Kiri Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Oni_stats_28_0_20/6.Pinggul.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Oni_stats_28_0_20/7.Paha Kiri.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Oni_stats_28_0_20/8.Paha Kanan.png",
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/armor/Oni_stats_28_0_20/9.Kaki Kiri.png"
+    ],
+    "stats": [
+      28,
+      0,
+      20
+    ],
+    "type": "armor",
+    "name": "Oni_stats_28_0_20",
+    "collection": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment.rare.helmet.Forest Guardian_stats_5_0_15",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/helmet/Forest Guardian_stats_5_0_15/Topi.png"
+    ],
+    "stats": [
+      5,
+      0,
+      15
+    ],
+    "type": "helmet",
+    "name": "Forest Guardian_stats_5_0_15",
+    "collection": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment.rare.helmet.Oni_stats_5_0_18",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/helmet/Oni_stats_5_0_18/Topeng.png"
+    ],
+    "stats": [
+      5,
+      0,
+      18
+    ],
+    "type": "helmet",
+    "name": "Oni_stats_5_0_18",
+    "collection": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment.rare.shield.Forest Guardian_stats_10_0_30",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/shield/Forest Guardian_stats_10_0_30/Shield.png"
+    ],
+    "stats": [
+      10,
+      0,
+      30
+    ],
+    "type": "shield",
+    "name": "Forest Guardian_stats_10_0_30",
+    "collection": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment.rare.shield.Oni_stats_8_0_32",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/shield/Oni_stats_8_0_32/Shield.png"
+    ],
+    "stats": [
+      8,
+      0,
+      32
+    ],
+    "type": "shield",
+    "name": "Oni_stats_8_0_32",
+    "collection": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment.rare.weapon.1handed.Forest Guardian_8_28_0",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/weapon/1handed/Forest Guardian_8_28_0/Pedang.png"
+    ],
+    "stats": [
+      8,
+      28,
+      0
+    ],
+    "type": "weapon",
+    "name": "1handed/Forest Guardian_8_28_0",
+    "collection": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment.rare.weapon.1handed.Oni_stats_0_38_0",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/weapon/1handed/Oni_stats_0_38_0/Pedang.png"
+    ],
+    "stats": [
+      0,
+      38,
+      0
+    ],
+    "type": "weapon",
+    "name": "1handed/Oni_stats_0_38_0",
+    "collection": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "id": "equipment.rare.weapon.bow.Black Horn_stats_0_52_0",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/AzhariMabar/SpinBoundSaga2025/Assets/img/SpriteHeroes/equipment/rare/weapon/bow/Black Horn_stats_0_52_0/Black Horn.png"
+    ],
+    "stats": [
+      0,
+      52,
+      0
+    ],
+    "type": "weapon",
+    "name": "bow/Black Horn_stats_0_52_0",
+    "collection": "equipment",
+    "rarity": "rare"
+  }
+]
