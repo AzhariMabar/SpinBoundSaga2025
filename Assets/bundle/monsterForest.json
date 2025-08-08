@@ -1,0 +1,812 @@
+[
+  {
+    "id": "FlailStomper",
+    "stats": {
+      "hp": 55,
+      "def": 2,
+      "atk": 37
+    },
+    "dropItem": {
+      "rubby": 5,
+      "ticket": 0,
+      "xp": 25,
+      "items": [
+        {
+          "id": "common.weapon.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "common.shield.basic",
+          "amount": 1,
+          "dropChance": 0.15
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "common.armor.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "rare.weapon.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.shield.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.armor.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.helmet.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        }
+      ]
+    }
+  },
+  {
+    "id": "Forest Bat",
+    "stats": {
+      "hp": 55,
+      "def": 2,
+      "atk": 39
+    },
+    "dropItem": {
+      "rubby": 5,
+      "ticket": 0,
+      "xp": 25,
+      "items": [
+        {
+          "id": "common.weapon.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "common.shield.basic",
+          "amount": 1,
+          "dropChance": 0.15
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "common.armor.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "rare.weapon.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.shield.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.armor.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.helmet.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        }
+      ]
+    }
+  },
+  {
+    "id": "Forest Popper",
+    "stats": {
+      "hp": 55,
+      "def": 1,
+      "atk": 40
+    },
+    "dropItem": {
+      "rubby": 5,
+      "ticket": 0,
+      "xp": 25,
+      "items": [
+        {
+          "id": "common.weapon.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "common.shield.basic",
+          "amount": 1,
+          "dropChance": 0.15
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "common.armor.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "rare.weapon.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.shield.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.armor.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.helmet.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        }
+      ]
+    }
+  },
+  {
+    "id": "Grass Cat",
+    "stats": {
+      "hp": 55,
+      "def": 2,
+      "atk": 38
+    },
+    "dropItem": {
+      "rubby": 5,
+      "ticket": 0,
+      "xp": 25,
+      "items": [
+        {
+          "id": "common.weapon.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "common.shield.basic",
+          "amount": 1,
+          "dropChance": 0.15
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "common.armor.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "rare.weapon.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.shield.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.armor.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.helmet.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        }
+      ]
+    }
+  },
+  {
+    "id": "Green Cap",
+    "stats": {
+      "hp": 55,
+      "def": 4,
+      "atk": 38.5
+    },
+    "dropItem": {
+      "rubby": 5,
+      "ticket": 0,
+      "xp": 25,
+      "items": [
+        {
+          "id": "common.weapon.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "common.shield.basic",
+          "amount": 1,
+          "dropChance": 0.15
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "common.armor.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "rare.weapon.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.shield.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.armor.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.helmet.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        }
+      ]
+    }
+  },
+  {
+    "id": "Mud Spirit",
+    "stats": {
+      "hp": 55,
+      "def": 2,
+      "atk": 39
+    },
+    "dropItem": {
+      "rubby": 5,
+      "ticket": 0,
+      "xp": 25,
+      "items": [
+        {
+          "id": "common.weapon.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "common.shield.basic",
+          "amount": 1,
+          "dropChance": 0.15
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "common.armor.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "rare.weapon.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.shield.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.armor.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.helmet.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        }
+      ]
+    }
+  },
+  {
+    "id": "MushMancer",
+    "stats": {
+      "hp": 55,
+      "def": 1,
+      "atk": 40
+    },
+    "dropItem": {
+      "rubby": 5,
+      "ticket": 0,
+      "xp": 25,
+      "items": [
+        {
+          "id": "common.weapon.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "common.shield.basic",
+          "amount": 1,
+          "dropChance": 0.15
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "common.armor.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "rare.weapon.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.shield.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.armor.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.helmet.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        }
+      ]
+    }
+  },
+  {
+    "id": "Sand Wraith",
+    "stats": {
+      "hp": 55,
+      "def": 5,
+      "atk": 37
+    },
+    "dropItem": {
+      "rubby": 5,
+      "ticket": 0,
+      "xp": 25,
+      "items": [
+        {
+          "id": "common.weapon.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "common.shield.basic",
+          "amount": 1,
+          "dropChance": 0.15
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "common.armor.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "rare.weapon.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.shield.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.armor.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.helmet.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        }
+      ]
+    }
+  },
+  {
+    "id": "Thorny Rabbit",
+    "stats": {
+      "hp": 55,
+      "def": 2,
+      "atk": 36
+    },
+    "dropItem": {
+      "rubby": 5,
+      "ticket": 0,
+      "xp": 25,
+      "items": [
+        {
+          "id": "common.weapon.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "common.shield.basic",
+          "amount": 1,
+          "dropChance": 0.15
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "common.armor.basic",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "rare.weapon.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.shield.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.armor.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        },
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.001
+        },
+        {
+          "id": "rare.helmet.Oni",
+          "amount": 1,
+          "dropChance": 0.01
+        }
+      ]
+    }
+  },
+  {
+    "id": "Giant Forest Turtle",
+    "stats": {
+      "hp": 458,
+      "def": 17.5,
+      "atk": 45
+    },
+    "dropItem": {
+      "rubby": 50,
+      "ticket": 1,
+      "xp": 1000,
+      "items": [
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.5
+        },
+        {
+          "id": "rare.helmet.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.5
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.25
+        },
+        {
+          "id": "epic.weapon.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.shield.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.helmet.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.armor.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        }
+      ]
+    }
+  },
+  {
+    "id": "ManEater Flower",
+    "stats": {
+      "hp": 333,
+      "def": 11,
+      "atk": 42
+    },
+    "dropItem": {
+      "rubby": 50,
+      "ticket": 1,
+      "xp": 1000,
+      "items": [
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.35
+        },
+        {
+          "id": "rare.helmet.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.35
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.5
+        },
+        {
+          "id": "epic.weapon.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.shield.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.helmet.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.armor.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        }
+      ]
+    }
+  },
+  {
+    "id": "RedLotus Spider",
+    "stats": {
+      "hp": 333,
+      "def": 10,
+      "atk": 45
+    },
+    "dropItem": {
+      "rubby": 50,
+      "ticket": 1,
+      "xp": 1000,
+      "items": [
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.3
+        },
+        {
+          "id": "rare.helmet.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.3
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.5
+        },
+        {
+          "id": "epic.weapon.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.shield.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.helmet.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.armor.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        }
+      ]
+    }
+  },
+  {
+    "id": "Stung-blade Bee",
+    "stats": {
+      "hp": 333,
+      "def": 7.5,
+      "atk": 42
+    },
+    "dropItem": {
+      "rubby": 50,
+      "ticket": 1,
+      "xp": 1000,
+      "items": [
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.4
+        },
+        {
+          "id": "rare.helmet.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.4
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 0.5
+        },
+        {
+          "id": "epic.weapon.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.shield.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.helmet.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.armor.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        }
+      ]
+    }
+  },
+  {
+    "id": "Mother Forest",
+    "stats": {
+      "hp": 666,
+      "def": 17.5,
+      "atk": 50
+    },
+    "dropItem": {
+      "rubby": 50,
+      "ticket": 1,
+      "xp": 1000,
+      "items": [
+        {
+          "id": "rare.armor.Forest Guardian",
+          "amount": 1,
+          "dropChance": 1
+        },
+        {
+          "id": "rare.helmet.Forest Guardian",
+          "amount": 1,
+          "dropChance": 1
+        },
+        {
+          "id": "rare.weapon.Forest Guardian",
+          "amount": 1,
+          "dropChance": 1
+        },
+        {
+          "id": "legendary.helmet.Solar Sentinel",
+          "amount": 1,
+          "dropChance": 0.05
+        },
+        {
+          "id": "legendary.armor.Solar Sentinel",
+          "amount": 1,
+          "dropChance": 0.05
+        },
+        {
+          "id": "legendary.shield.Solar Sentinel",
+          "amount": 1,
+          "dropChance": 0.05
+        },
+        {
+          "id": "legendary.weapon.Solar Sentinel",
+          "amount": 1,
+          "dropChance": 0.05
+        },
+        {
+          "id": "epic.weapon.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.shield.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.helmet.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        },
+        {
+          "id": "epic.armor.Star Knight",
+          "amount": 1,
+          "dropChance": 0.1
+        }
+      ]
+    }
+  }
+]
